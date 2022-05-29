@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:latest
 
 ADD package.json /tmp/package.json
 
